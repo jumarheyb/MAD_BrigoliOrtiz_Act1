@@ -1,4 +1,4 @@
-package com.mad_brigoliortiz_act1.;
+package com.mad_brigoliortiz_act1;
 
 import android.graphics.Color;
 import android.os.Bundle;
